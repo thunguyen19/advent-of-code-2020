@@ -53,13 +53,10 @@ def get_your_seat_id(inputs):
             return seat_ids[i] + 1
 
 
-def main():
+if __name__ == '__main__':
     example = 'FBFBBFFRLR'
     assert get_seat_id(example) == 357
 
     data = get_input('input.txt')
     assert get_highest_seat_id(data) == 822
     assert get_your_seat_id(data) == 705
-
-
-main()

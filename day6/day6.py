@@ -50,10 +50,7 @@ def num_questions_everyone_answer(data):
     return result
 
 
-def main():
+if __name__ == '__main__':
     data = get_input('input.txt')
     assert num_questions_anyone_answer(data) == 6596
     assert num_questions_everyone_answer(data) == 3219
-
-
-main()

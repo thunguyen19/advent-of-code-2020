@@ -46,13 +46,10 @@ def part_2(entries, target):
     return result
 
 
-def main():
+if __name__ == '__main__':
     example = ['1721', '979', '366', '299', '675', '1456']
     assert part_1(example, 2020) == 514579
 
     inputs = get_input('input.txt')
     assert part_1(inputs, 2020) == 980499
     assert part_2(inputs, 2020) == 200637446
-
-
-main()
