@@ -25,3 +25,4 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 * [Day 13](https://github.com/thunguyen19/advent-of-code-2020/tree/master/day13)
 * [Day 14](https://github.com/thunguyen19/advent-of-code-2020/tree/master/day14)
 * [Day 15](https://github.com/thunguyen19/advent-of-code-2020/tree/master/day15)
+* [Day 18](https://github.com/thunguyen19/advent-of-code-2020/tree/master/day18)
