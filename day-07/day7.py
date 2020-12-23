@@ -1,16 +1,5 @@
 import re
 
-# class Luggage:
-#     def __init__(self, color, children=[]):
-#         self.color = color
-#         self.children = children
-#
-#     def num_children(self):
-#         return len(self.children)
-#
-#     def contains_target_bag(self, bag):
-#         return bag in self.children
-
 
 def get_inputs(file_name):
     store = []
